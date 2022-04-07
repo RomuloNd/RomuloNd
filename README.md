@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rômulo Dias 👋
+### Olá! Eu sou o Rômulo Dias 🤙
 
 - 🔭 Atualmente desempregredo procurando estágio na área tech
 - 🌱 Estudando front-end (Html/Css/JavaScript)
