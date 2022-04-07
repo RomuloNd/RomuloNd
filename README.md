@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rômulo Dias 🤙
 
-- 🔭 Atualmente desempregredo procurando estágio na área tech
+- 🔭 Atualmente procurando estágio na área tech
 - 🌱 Estudando front-end (Html/Css/JavaScript)
 - 😄 Pronouns: ele/dele 
 
