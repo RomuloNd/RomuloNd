@@ -1,8 +1,10 @@
-### Olá! Eu sou o Rômulo Dias 🤙
+<div align="center">
 
-- 🔭 Atualmente procurando estágio na área tech
-- 🌱 Estudando front-end (Html/Css/JavaScript)
-- 😄 Pronouns: ele/dele 
+<img src="file:///C:/Users/romul/Downloads/Giothub%20largo%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif" width="25px">
+
+</div>
+
+<hr>
 
  <div align="center">
   <a href="https://github.com/RomuloNd">
