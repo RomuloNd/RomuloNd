@@ -1,6 +1,6 @@
-
-<img src="file:///C:/Users/romul/Downloads/Giothub%20largo%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif" width="25px">
-
+  <div align="center">
+ <img height="150" widht="200" src= "https://raw.githubusercontent.com/RomuloNd/GifReadme/main/Giothub%20largo%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif?token=GHSAT0AAAAAAB2N5E4PLATBZXSCEXT335BYY35IHZQ" >
+ </div>
 <hr>
 
  <div align="center">
