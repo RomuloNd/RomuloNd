@@ -1,8 +1,5 @@
-<div align="center">
 
 <img src="file:///C:/Users/romul/Downloads/Giothub%20largo%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif" width="25px">
-
-</div>
 
 <hr>
 
