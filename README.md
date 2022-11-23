@@ -1,5 +1,5 @@
   <div align="center">
- <img height="150" widht="200" src="https://raw.githubusercontent.com/RomuloNd/GifReadme/main/Giothub%20largo%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif?token=GHSAT0AAAAAAB2N5E4OV23YM4IWAUFLQITUY36FQWQ">
+ <img height="150" widht="200" src="https://cdn.discordapp.com/attachments/1044988495908843621/1044988672640041030/Giothub_largo_Feito_com_o_Clipchamp.gif">
  </div>
 <hr>
 
